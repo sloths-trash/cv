@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+hr{
+    border-style: dotted none none; 
+    border-color: grey; 
+    border-width: 12px;
+    width: 10%;
+}
+h1,h3{
+    color: #987554;
+}
